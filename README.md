@@ -13,7 +13,12 @@ Capstone research project evaluating the causal impact of state EITC adoption on
 **Packages:** `did`, `fixest`, `ggplot2`, `tidyverse`
 
 ### `Final_project_analysis.R`
-Supporting analysis and data visualization script for the capstone project above.
+**Do Preferential Trade Agreements Generate Larger Trade Gains for Linguistically Similar Country Pairs?**
+
+Gravity model econometric research examining whether shared language between trading partners amplifies the trade-creating effects of preferential trade agreements (PTAs). Uses the CEPII Gravity Database to construct a structural gravity model, applying both OLS and PPML (Poisson Pseudo-Maximum Likelihood) estimation strategies, with pair fixed effects for robustness.
+
+**Methods:** Structural gravity models, OLS, PPML, fixed effects estimation
+**Packages:** `fixest`, `tidyverse`
 
 ### `Ali_DFE_HW1_R_Code.R`
 **Designing Field Experiments — Homework 1: Kenya Enterprise Promotion RCT**
