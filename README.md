@@ -21,7 +21,7 @@ Gravity model econometric research examining whether shared language between tra
 **Packages:** `fixest`, `tidyverse`
 
 ### `Ali_DFE_HW1_R_Code.R`
-**Designing Field Experiments — Homework 1: Kenya Enterprise Promotion RCT**
+**Designing Field Experiments : Kenya Enterprise Promotion RCT**
 
 Applied problem set analyzing a randomized controlled trial evaluating an enterprise promotion program in Kenya. Covers instrumental variables estimation, matching methods for comparison group selection, Lee Bounds for sample selection bias, and cost-benefit analysis of program impacts.
 
