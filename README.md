@@ -28,6 +28,14 @@ Applied problem set analyzing a randomized controlled trial evaluating an enterp
 **Methods:** RCT analysis, IV/2SLS, matching methods, Lee Bounds, cost-benefit analysis
 **Packages:** `AER`, `MatchIt`, `tidyverse`
 
+### `Final_project_GIS(R_work).R`
+**Spatial Analysis of Population Density and River Proximity Across Somali Regions**
+
+Spatial econometric analysis examining the relationship between river proximity and population density across Somali regions. Applies Euclidean distance calculations, kernel density estimation, and spatial autocorrelation diagnostics (Moran's I, LISA), followed by OLS and Geographically Weighted Regression (GWR) to model spatial heterogeneity in the relationship.
+
+**Methods:** Spatial econometrics, Euclidean distance, kernel density, Moran's I/LISA, GWR
+**Packages:** `sf`, `spdep`, `GWmodel`, `tidyverse`
+
 ## About Me
 Master of International Affairs candidate, UC San Diego School of Global Policy and Strategy (Expected June 2026). Dean's Fellow. Research interests in causal inference, program evaluation, and evidence-based policy.
 
