@@ -1,6 +1,6 @@
-# Quantitative Capstone Project
+# Applied Econometrics Research
 
-Applied econometrics and causal inference projects completed during my Master of International Affairs (International Economics) at UC San Diego's School of Global Policy and Strategy.
+Independent applied econometrics and causal inference projects and research completed during my Master of International Affairs (International Economics) at UC San Diego's School of Global Policy and Strategy.
 
 ## Files
 
