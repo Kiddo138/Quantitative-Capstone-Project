@@ -37,6 +37,6 @@ Spatial econometric analysis examining the relationship between river proximity 
 **Packages:** `sf`, `spdep`, `GWmodel`, `tidyverse`
 
 ## About Me
-Master of International Affairs candidate, UC San Diego School of Global Policy and Strategy (Expected June 2026). Dean's Fellow. Research interests in causal inference, program evaluation, and evidence-based policy.
+Master of International Economics, UC San Diego School of Global Policy and Strategy. Dean's Fellow. Research interests in Development economics, Policy Analysis, causal inference, program evaluation, and evidence-based policy.
 
 [abali@ucsd.edu](mailto:abali@ucsd.edu)
